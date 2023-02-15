@@ -1,4 +1,4 @@
-# My-Blog
+# Haohui Lin's Blog
 Record the journey 
 
 <br>
