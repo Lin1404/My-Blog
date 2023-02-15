@@ -5,9 +5,9 @@ Record the journey
 
 ## Contents:
 
-1.<a href="#Github">Github</a>
+1.<a href="#GitHub">GitHub</a>
 
 <br>
 
-## <a name="Github">Github</a>
-##### [Set up Repository in Github](https://github.com/Lin1404/My-Blog/issues/1)
+## <a name="GitHub">GitHub</a>
+##### [Set up Repository in GitHub](https://github.com/Lin1404/My-Blog/issues/1)
